@@ -6,3 +6,5 @@ output: html_document
 ---
 
 Names: Julian, Kiana
+
+Favorite Candy: Reese's
