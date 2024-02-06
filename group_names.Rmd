@@ -7,4 +7,4 @@ output: html_document
 
 Names: Julian, Kiana
 
-Favorite Candy: Reese's
+Favorite Candy: Reese's, Gum
